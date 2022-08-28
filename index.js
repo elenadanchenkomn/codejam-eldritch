@@ -154,3 +154,50 @@ imgCard.setAttribute('src' ,srccard);
 
    
          
+
+
+
+
+/*
+
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown1.png?raw=true" alt="card" class="all brown normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown2.png?raw=true" alt="card" class="all brown normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown3.png?raw=true" alt="card" class="all brown normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown4.png?raw=true" alt="card" class="all brown normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown5.png?raw=true" alt="card" class="all brown normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown6.png?raw=true" alt="card" class="all brown hard">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown7.png?raw=true" alt="card" class="all brown hard">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown8.png?raw=true" alt="card" class="all brown hard">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown9.png?raw=true" alt="card" class="all brown hard">
+            <img src="https://github.com/elenadanchenckomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown10.png?raw=true" alt="card" class="all brown hard">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown11.png?raw=true" alt="card" class="all brown light">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown12.png?raw=true" alt="card" class="all brown light">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown13.png?raw=true" alt="card" class="all brown light">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown14.png?raw=true" alt="card" class="all brown light">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown15.png?raw=true" alt="card" class="all brown normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown16.png?raw=true" alt="card" class="all brown normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown17.png?raw=true" alt="card" class="all brown normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown18.png?raw=true" alt="card" class="all brown normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown19.png?raw=true" alt="card" class="all brown normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown20.png?raw=true" alt="card" class="all brown normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/brown/brown21.png?raw=true" alt="card" class="all brown light">
+
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/green/green1.png?raw=true" alt="card" class="all greens light">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/green/green2.png?raw=true" alt="card" class="all greens hard">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/green/green3.png?raw=true" alt="card" class="all greens hard">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/green/green4.png?raw=true" alt="card" class="all greens hard">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/green/green5.png?raw=true" alt="card" class="all greens hard">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/green/green6.png?raw=true" alt="card" class="all greens hard">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/green/green7.png?raw=true" alt="card" class="all greens normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/green/green8.png?raw=true" alt="card" class="all greens normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/green/green9.png?raw=true" alt="card" class="all greens normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/green/green10.png?raw=true" alt="card" class="all greens normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/green/green11.png?raw=true" alt="card" class="all greens normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/green/green12.png?raw=true" alt="card" class="all greens light">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/green/green13.png?raw=true" alt="card" class="all greens normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/green/green14.png?raw=true" alt="card" class="all greens normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/green/green15.png?raw=true" alt="card" class="all greens normal">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/green/green16.png?raw=true" alt="card" class="all greens light">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/green/green17.png?raw=true" alt="card" class="all greens light">
+            <img src="https://github.com/elenadanchenkomn/eldritch-codejam/blob/main/assets/MythicCards/green/green18.png?raw=true" alt="card" class="all greens light"></img>
+            */
